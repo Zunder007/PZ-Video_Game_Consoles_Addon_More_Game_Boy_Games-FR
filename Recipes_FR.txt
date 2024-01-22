@@ -55,4 +55,8 @@ Recipe_FR = {
 	Recipe_Play_Wave_Race = "Jouer à Wave Race",
 	Recipe_Play_Yoshi = "Jouer à Yoshi",
 	Recipe_Play_Yoshi's_Cookie = "Jouer à Yoshi's Cookie",
+
+	Recipe_Play_Baseball = "Jouer à Baseball",
+	Recipe_Play_Golf = "Jouer à Golf",
+	Recipe_Play_Tennis = "Jouer à Tennis",
 }
